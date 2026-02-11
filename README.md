@@ -89,7 +89,7 @@
 7. Else
    Tax = 5% of 2,50,000 + 20% of 5,00,000 + 30% of remaining amount
 8. Print income tax
-8.Stop
+9. Stop
 
 
 
