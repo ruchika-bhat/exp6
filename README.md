@@ -91,6 +91,13 @@
 8. Print income tax
 9. Stop
 
+# THEORY:-
+Conditional statements are used to make decisions in program based on given conditions.
+They help the computer choose different actions using if, else if, and else.
+This allows solving problems like checking numbers, grading, leap years, dates, and tax.
+
+# CONCLUSION:-
+ Thus, conditional statements help in decision making and make programs smart, logical, and useful for real life calculations.
 
 
 
