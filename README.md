@@ -97,8 +97,8 @@ They help the computer choose different actions using if, else if, and else.
 This allows solving problems like checking numbers, grading, leap years, dates, and tax.
 
 # CONCLUSION:-
- Thus, conditional statements help in decision making and make programs smart, logical, and useful for real life calculations.
-
+Thus, conditional statements help in decision making and make programs smart, logical, and useful for real life calculations.
+They improve program efficiency and allow different outputs for different inputs.
 
 
 
